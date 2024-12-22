@@ -1,0 +1,26 @@
+{
+  "name": "keytrackerplugin",
+  "version": "1.0.0",
+  "main": "keyTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "16": "^0.0.2",
+    "build": "^0.1.4",
+    "electron": "^33.2.1",
+    "keypress": "^0.2.1",
+    "node": "^23.5.0",
+    "node-global-key-listener": "^0.3.0",
+    "python": "^0.0.4",
+    "robotjs": "^0.6.0",
+    "studio": "^0.13.5",
+    "tools": "^0.0.0",
+    "visual": "^0.0.1",
+    "ws": "^8.18.0"
+  }
+}
